@@ -1,0 +1,19 @@
+==> 2017-07-28 20:50:42 <==
+# cmd: C:\Users\ddrivenguest\Anaconda2\Scripts\conda-script.py create --prefix=pythonenv python=2.7
++defaults::pip-9.0.1-py27_1
++defaults::python-2.7.13-1
++defaults::setuptools-27.2.0-py27_1
++defaults::vs2008_runtime-9.00.30729.5054-0
++defaults::wheel-0.29.0-py27_0
+# create specs: python 2.7*
+==> 2017-07-28 21:50:12 <==
+# cmd: C:\Users\ddrivenguest\Anaconda2\Scripts\conda-script.py install -c anaconda django
++anaconda::django-1.11.3-py27_0
++anaconda::pytz-2017.2-py27_0
+# install specs: django
+==> 2017-07-28 23:48:43 <==
+# cmd: C:\Users\ddrivenguest\Anaconda2\Scripts\conda-script.py install -c menpo opencv3
++defaults::mkl-2017.0.3-0
++defaults::numpy-1.13.1-py27_0
++menpo::opencv3-3.1.0-py27_0
+# install specs: opencv3
